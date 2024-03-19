@@ -1,0 +1,8 @@
+git clone "https://github.com/your-name/git-begins"
+
+
+git push
+
+git push --all origin
+
+git push origin my-branch
