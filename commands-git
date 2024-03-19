@@ -6,3 +6,5 @@ git push
 git push --all origin
 
 git push origin my-branch
+
+git pull origin main
